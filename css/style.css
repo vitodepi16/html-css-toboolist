@@ -1,3 +1,22 @@
-body{
-    background-color: red;
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: hsl(0, 8%, 85%);
+}
+
+.logo {
+    background-color: white;
+    width: 100%;
+    vertical-align: middle;
+}
+
+.titolo {
+    display: inline-block;
+    font-size: 30px;
+    vertical-align: 45%;
+    text-align: center;
+
 }
