@@ -42,7 +42,8 @@ main {
     padding: 10px;
     padding-left: 35px;
 }
-
 .listanascosta{
-    display: none;
+    list-style: none;   
+    padding: 8px;
 }
+
