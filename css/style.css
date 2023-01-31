@@ -3,6 +3,7 @@
     padding: 20;
     font-style: arial;
     box-sizing: border-box;
+    font-size: 16px;
 }
 
 body {
@@ -52,7 +53,61 @@ main {
     background-color: #10befd;
     border-radius: 12px;
     padding: 5px;
-    border: 2px #10befd solid ;
+    text-align: center;
+    width: 80px;
+    color: white;
+    font-size: 16px;
+    display: inline-block;
+}
+.boxorange{
+    background-color: #ffb700;
+    border-radius: 12px;
+    padding: 5px;
+    text-align: center;
+    width: 80px;
+    color: white;
+    font-size: 16px;
+    display: inline-block;
+}
+
+.boxgreen{
+    background-color: #00c247af;
+    border-radius: 12px;
+    padding: 5px;
+  
+    text-align: center;
+    width: 80px;
+    color: white;
+    font-size: 16px;
+    display: inline-block;
+}
+
+.boxpurple{
+    background-color: #8b00f5;
+    border-radius: 12px;
+    padding: 5px;
+    text-align: center;
+    width: 80px;
+    color: white;
+    font-size: 16px;
+    display: inline-block;
+}
+
+.boxpink{
+    background-color: #ff3dbb;
+    border-radius: 12px;
+    padding: 5px;
+    text-align: center;
+    width: 80px;
+    color: white;
+    font-size: 16px;
+    display: inline-block;
+}
+
+.boxpistacchio{
+    background-color: #60ba00b3;
+    border-radius: 12px;
+    padding: 5px;
     text-align: center;
     width: 80px;
     color: white;
