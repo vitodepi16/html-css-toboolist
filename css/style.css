@@ -1,6 +1,6 @@
 * {
-    margin: 0;
-    padding: 0;
+    margin: 5;
+    padding: 5;
     font-style: arial;
     box-sizing: border-box;
     font-size: 16px;
@@ -20,9 +20,10 @@ body {
 
 .titolo {
     display: inline-block;
-    font-size: 30px;
-    vertical-align: 45%;
+    font-size: 45px;
+    vertical-align: 50%;
     text-align: center;
+    font-size:xx-large;
 }
 
 main {
