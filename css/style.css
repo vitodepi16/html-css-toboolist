@@ -14,6 +14,8 @@ body {
     background-color: white;
     width: 100%;
     vertical-align: middle;
+    font-weight: bolder;
+    font: size 70px;
 }
 
 .titolo {
@@ -44,12 +46,26 @@ main {
     padding: 10px;
     padding-left: 35px;
 }
-.listanascosta{
-    list-style: none;   
+
+.listanascosta {
+    list-style: none;
     padding: 8px;
 }
 
-.boxblue{
+.bottontask {
+    background-color: #10befd;
+    padding: 5px;
+    width: 80px;
+    color: white;
+}
+
+.bottonsection {
+    padding: 5px;
+    width: 120px;
+    background-color: rgba(211, 211, 211, 0.9);
+}
+
+.boxblue {
     background-color: #10befd;
     border-radius: 12px;
     padding: 5px;
@@ -59,7 +75,8 @@ main {
     font-size: 16px;
     display: inline-block;
 }
-.boxorange{
+
+.boxorange {
     background-color: #ffb700;
     border-radius: 12px;
     padding: 5px;
@@ -70,11 +87,11 @@ main {
     display: inline-block;
 }
 
-.boxgreen{
+.boxgreen {
     background-color: #00c247af;
     border-radius: 12px;
     padding: 5px;
-  
+
     text-align: center;
     width: 80px;
     color: white;
@@ -82,7 +99,7 @@ main {
     display: inline-block;
 }
 
-.boxpurple{
+.boxpurple {
     background-color: #8b00f5;
     border-radius: 12px;
     padding: 5px;
@@ -93,7 +110,7 @@ main {
     display: inline-block;
 }
 
-.boxpink{
+.boxpink {
     background-color: #ff3dbb;
     border-radius: 12px;
     padding: 5px;
@@ -104,7 +121,7 @@ main {
     display: inline-block;
 }
 
-.boxpistacchio{
+.boxpistacchio {
     background-color: #60ba00b3;
     border-radius: 12px;
     padding: 5px;
@@ -114,4 +131,3 @@ main {
     font-size: 16px;
     display: inline-block;
 }
-
